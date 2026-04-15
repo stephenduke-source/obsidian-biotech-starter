@@ -1,0 +1,6 @@
+---
+tags:
+  - teams
+---
+
+![[Teams.base]]

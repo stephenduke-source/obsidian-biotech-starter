@@ -1,0 +1,30 @@
+// Filter: categories contains Teams & name does not contain Template
+// Formulas: NA
+// Properties: ...
+// Summaries: ...
+// Views: ...
+
+filters:
+  and:
+    - categories.contains(link("Teams"))
+    - file.folder != "Templates"
+properties:
+  file.name:
+    displayName: Name
+  note.lead:
+    displayName: Team lead
+  note.members:
+    displayName: Team members
+  note.domain:
+    displayName: Domain
+  note.purpose:
+    displayName: purpose
+views:
+  - type: table
+    name: Teams
+    order:
+      - file.name
+      - lead
+      - members
+      - domain
+      - purpose
