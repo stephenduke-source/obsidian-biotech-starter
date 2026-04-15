@@ -58,23 +58,9 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-04-08 13.20.28.excalidraw"
             }
-          },
-          {
-            "id": "d763d5d04b636999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026 04 14 (1142) Pipelines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026 04 14 (1142) Pipelines"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,19 +246,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d763d5d04b636999",
+  "active": "b1b1b6d0a1900109",
   "lastOpenFiles": [
+    "Templates/Bases/Templates.base",
     "Templates/Bases/Projects.base",
     "Templates/Bases/People.base",
-    "Templates/Bases/Meetings.base",
     "Templates/Bases/Journal.base",
     "Templates/Bases/Daily.base",
-    "Templates/Bases/Companies.base",
     "Templates/Bases/Clippings.base",
-    "Templates/Bases/Attachments.base",
     "Templates/Bases/Backlinks.base",
-    "Templates/Bases/Templates.base",
-    "Templates/Bases/Templates.basse",
+    "Templates/Bases/Attachments.base",
+    "Templates/Bases/Companies.base",
+    "2026 04 14 (1142) Pipelines.md",
+    "Templates/Bases/Meetings.base",
     "2026 04 13 (1402) Benchling Induction.md",
     "2026 04 11 (1052) ETB-3421.md",
     "2026 04 08 (1208) Chat with Shreya.md",
@@ -292,7 +278,6 @@
     "2026 04 01 (1204) O2KR4 Discussion.md",
     "2026 04 01 (1108) Data costs.md",
     "2026 04 01 (1014) Getting Familiar with OKRs.md",
-    "2026 04 14 (1142) Pipelines.md",
     "Excalidraw/Drawing 2026-04-14 11.43.04.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 13.20.28.excalidraw.md",
     "2026 04 08 (1320) Data Landscape.md",
