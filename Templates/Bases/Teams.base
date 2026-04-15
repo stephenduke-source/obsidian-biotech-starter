@@ -1,9 +1,3 @@
-// Filter: categories contains Teams & name does not contain Template
-// Formulas: NA
-// Properties: ...
-// Summaries: ...
-// Views: ...
-
 filters:
   and:
     - categories.contains(link("Teams"))
