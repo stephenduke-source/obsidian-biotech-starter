@@ -11,10 +11,13 @@
             "id": "a90eabb53db1e150",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Templates/Bases/Backlinks.base",
+                "viewName": "Backlinks"
+              },
+              "icon": "lucide-table",
+              "title": "Backlinks"
             }
           }
         ]
@@ -205,6 +208,8 @@
   },
   "active": "a90eabb53db1e150",
   "lastOpenFiles": [
+    "Templates/Bases/Attachments.base",
+    "Templates/Bases/Backlinks.base",
     "Daily/2026-04-15.md",
     "2026 04 15 (1357).md",
     "Templates/Journal Template.md",
@@ -215,7 +220,7 @@
     "Excalidraw/Drawing 2026-04-08 13.20.28.excalidraw.md",
     "Templates/Category Template.md",
     "Templates/Project Template.md",
-    "Templates/People Template.md",
+    "Templates/Person Template.md",
     "Templates/Meeting Template.md",
     "Templates/Daily Note Template.md",
     "Templates/Company Template.md",
@@ -226,8 +231,6 @@
     "Templates/Bases/Journal.base",
     "Templates/Bases/Daily.base",
     "Templates/Bases/Clippings.base",
-    "Templates/Bases/Backlinks.base",
-    "Templates/Bases/Attachments.base",
     "Templates/Bases/Companies.base",
     "2026 04 14 (1142) Pipelines.md",
     "Templates/Bases/Meetings.base",
@@ -239,7 +242,6 @@
     "2026 04 07 (1351) Projects at Relation.md",
     "2026 04 07 (1307) Reading List.md",
     "2026 04 07 (1216) Security Training.md",
-    "2026 04 07 (1131) GDPR.md",
-    "2026 04 07 (1116) Chat with Amaia.md"
+    "2026 04 07 (1131) GDPR.md"
   ]
 }
