@@ -11,13 +11,24 @@
             "id": "a90eabb53db1e150",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Templates/Bases/Backlinks.base",
-                "viewName": "Backlinks"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Backlinks"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -208,9 +219,11 @@
   },
   "active": "a90eabb53db1e150",
   "lastOpenFiles": [
+    "Welcome.md",
+    "README.md",
+    "Templates/Bases/Backlinks.base",
     "Excalidraw/sketch-1776258737.md",
     "Excalidraw/Drawing 2026-04-15 14.08.56.excalidraw.md",
-    "Templates/Bases/Backlinks.base",
     "Templates/Bases/Attachments.base",
     "Daily/2026-04-15.md",
     "2026 04 15 (1357).md",
@@ -241,8 +254,6 @@
     "2026 04 08 (1208) Chat with Shreya.md",
     "2026 04 07 (1557) Chat with Amaia.md",
     "2026 04 07 (1422) Research List.md",
-    "2026 04 07 (1351) Projects at Relation.md",
-    "2026 04 07 (1307) Reading List.md",
-    "2026 04 07 (1216) Security Training.md"
+    "2026 04 07 (1351) Projects at Relation.md"
   ]
 }
