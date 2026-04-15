@@ -1,0 +1,26 @@
+filters:
+    and:
+        - categories.contains(link("Workflows"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Tool
+    note.domains:
+        displayName: Domains
+    note.tools:
+        displayName: Tools
+    note.owners:
+        displayName: Owners
+    note.users:
+        displayName: Users
+summaries:
+views:
+    - type: table
+      name: Workflows
+      order:
+        - file.name
+        - domains
+        - tools
+        - owners
+        - users

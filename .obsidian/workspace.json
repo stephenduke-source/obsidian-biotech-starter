@@ -54,9 +54,57 @@
               "icon": "lucide-file",
               "title": "Tools"
             }
+          },
+          {
+            "id": "db6e3b1709dbe520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Software"
+            }
+          },
+          {
+            "id": "d9fa41b6107955d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workflows.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Workflows"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,10 +290,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a53043d78ee810d3",
+  "active": "d9fa41b6107955d3",
   "lastOpenFiles": [
-    "NextSeq2000.md",
+    "scRNASeq.md",
+    "Workflows.md",
+    "Software.md",
+    "Repository.md",
+    "rrx-data-workflows.md",
+    "Templates/Repository Template.md",
+    "Sequera.md",
     "Tools.md",
+    "Templates/Software Template.md",
+    "Templates/Workflow Template.md",
+    "Templates/Bases/Workflows.base",
+    "NextSeq2000.md",
     "Equipment.md",
     "Templates/Bases/Tools.base",
     "Roles.md",
@@ -267,18 +325,7 @@
     "README.md",
     "Welcome.md",
     "Templates/Bases/Backlinks.base",
-    "Excalidraw/sketch-1776258737.md",
-    "Excalidraw/Drawing 2026-04-15 14.08.56.excalidraw.md",
     "Templates/Bases/Attachments.base",
-    "Daily/2026-04-15.md",
-    "2026 04 15 (1357).md",
-    "Templates/Journal Template.md",
-    "Clippings/Obsidian Web Clipper.md",
-    "2026 04 15 (1351).md",
-    "2026 04 02 (0927) Understanding more about Relation.md",
-    "Excalidraw/Drawing 2026-04-14 11.43.04.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-08 13.20.28.excalidraw.md",
-    "Templates/Bases/Templates.base",
-    "Templates/Bases/Projects.base"
+    "Templates/Bases/Templates.base"
   ]
 }
