@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "74a3893e0c4cdd90",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16fbbc51b67f017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1891b0fa7244909d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026 04 02 (0927) Understanding more about Relation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026 04 02 (0927) Understanding more about Relation"
+            }
+          },
+          {
+            "id": "94598f80db7d8980",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-14 11.43.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-14 11.43.04.excalidraw"
+            }
+          },
+          {
+            "id": "b2cfe53b10225891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-14 11.43.04.excalidraw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drawing 2026-04-14 11.43.04.excalidraw"
+            }
+          },
+          {
+            "id": "b1b1b6d0a1900109",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-08 13.20.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-08 13.20.28.excalidraw"
+            }
+          },
+          {
+            "id": "d763d5d04b636999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026 04 14 (1142) Pipelines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026 04 14 (1142) Pipelines"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dc66ceb6c4a9164",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6a4f2f536952af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "938090d59ba487d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9d0c773e8e793649",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "045256657f17b4d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b09d422bcbcb0fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b275b308843da72f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96588469acce66d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "064d4a68f80fefb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2d5ba5ff2b2b75e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f09d8d7e037bcdfb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ebb8296b78c23510",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "a85ba199a952feef",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "850d477404e10139",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "d763d5d04b636999",
+  "lastOpenFiles": [
+    "Templates/Bases/Templates.base",
+    "Templates/Bases/Templates.basse",
+    "Templates/Bases",
+    "2026 04 13 (1402) Benchling Induction.md",
+    "2026 04 11 (1052) ETB-3421.md",
+    "2026 04 08 (1208) Chat with Shreya.md",
+    "2026 04 07 (1557) Chat with Amaia.md",
+    "2026 04 07 (1422) Research List.md",
+    "2026 04 07 (1351) Projects at Relation.md",
+    "2026 04 07 (1307) Reading List.md",
+    "2026 04 07 (1216) Security Training.md",
+    "2026 04 07 (1131) GDPR.md",
+    "2026 04 07 (1116) Chat with Amaia.md",
+    "2026 04 07 (1023) DSE.md",
+    "2026 04 07 (0915) Mailbox's & routing rules.md",
+    "2026 04 02 (1447) First assignment (maybe).md",
+    "2026 04 02 (1016) Notes from townhall.md",
+    "2026 04 01 (1408) OKR Alignment.md",
+    "2026 04 02 (0927) Understanding more about Relation.md",
+    "2026 04 01 (1204) O2KR4 Discussion.md",
+    "2026 04 01 (1108) Data costs.md",
+    "2026 04 01 (1014) Getting Familiar with OKRs.md",
+    "2026 04 14 (1142) Pipelines.md",
+    "Daily",
+    "Clippings",
+    "References",
+    "Templates",
+    "Attachments",
+    "Excalidraw/Drawing 2026-04-14 11.43.04.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-08 13.20.28.excalidraw.md",
+    "2026 04 08 (1320) Data Landscape.md",
+    "Excalidraw/capabilities-vs-projects.md",
+    "Welcome.md",
+    "Excalidraw"
+  ]
+}
