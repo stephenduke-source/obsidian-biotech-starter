@@ -1,0 +1,38 @@
+filters:
+    and:
+        - categories.contains(link("Genes"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Gene
+    note.ensembl_id:
+        displayName: Ensembl Gene ID
+    note.species:
+        displayName: Species
+    note.chromosome:
+        displayName: Chromosome
+    note.length:
+        displayName: Length
+    note.exons:
+        displayName: Exons
+    note.transcripts:
+        displayName: Transcripts
+    note.pathways:
+        displayName: Pathways
+    note.diseases:
+        displayName: Diseases
+    note.interactions:
+        displayName: Interactions
+summaries:
+views:
+    - type: table
+      name: Genes
+      order:
+        - file.name
+        - ensembl_id
+        - species
+        - chromosome
+        - pathways
+        - diseases
+        - interactions

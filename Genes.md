@@ -1,0 +1,5 @@
+---
+tags:
+  - genes
+---
+![[Genes.base]]
