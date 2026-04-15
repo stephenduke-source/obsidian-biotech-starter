@@ -1,0 +1,44 @@
+filters:
+    and:
+        - categories.contains(link("Tools"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Tool
+    note.tags:
+        displayName: tags
+    note.model:
+        displayName: Model
+    note.manufacturer:
+        displayName: Manufacturer
+    note.domain:
+        displayName: Domain
+    note.workflows:
+        displayName: Workflows
+    note.owners:
+        displayName: Owners
+summaries:
+views:
+    - type: table
+      name: All Tools
+      order:
+        - file.name
+        - tags
+        - domain
+        - model
+        - manufacturer
+        - workflows
+        - owners
+    - type: table
+      name: Equipment
+      filters:
+        and:
+            - note.tags.contains("equipment")
+      order:
+        - file.name
+        - domain
+        - model
+        - manufacturer
+        - workflows
+        - owners        

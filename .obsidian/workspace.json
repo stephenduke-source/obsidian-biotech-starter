@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Roles"
             }
+          },
+          {
+            "id": "a53043d78ee810d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,9 +242,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "51d24bb0aa98690e",
+  "active": "a53043d78ee810d3",
   "lastOpenFiles": [
+    "NextSeq2000.md",
+    "Tools.md",
+    "Equipment.md",
+    "Templates/Bases/Tools.base",
     "Roles.md",
+    "Templates/Equipment Template.md",
+    "Templates/Bases/Tool.base",
     "Teams.md",
     "Engineer.md",
     "2026 04 15 (1430) demo.md",
@@ -247,12 +278,7 @@
     "2026 04 02 (0927) Understanding more about Relation.md",
     "Excalidraw/Drawing 2026-04-14 11.43.04.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 13.20.28.excalidraw.md",
-    "Templates/Category Template.md",
-    "Templates/Project Template.md",
-    "Templates/Person Template.md",
     "Templates/Bases/Templates.base",
-    "Templates/Bases/Projects.base",
-    "Templates/Bases/People.base",
-    "Templates/Bases/Journal.base"
+    "Templates/Bases/Projects.base"
   ]
 }
