@@ -12,7 +12,7 @@ properties:
   note.domain:
     displayName: Domain
   note.purpose:
-    displayName: purpose
+    displayName: Purpose
 views:
   - type: table
     name: Teams

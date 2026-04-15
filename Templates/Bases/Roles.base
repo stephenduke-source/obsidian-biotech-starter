@@ -1,0 +1,23 @@
+filters:
+    and:
+        - categories.contains(link("Roles"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Role
+    note.responsibilties:
+        displayName: Responsibilties
+    note.accountabilities:
+        displayName: Accountabilities
+    note.domain:
+        displayName: Domain
+summaries:
+views:
+    - type: table
+      name: Roles
+      order:
+        - file.name
+        - responsibilties
+        - accountabilities
+        - domain

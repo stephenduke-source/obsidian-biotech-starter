@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "843313282c230d37",
+        "id": "d72c3d663e8ccd2e",
         "type": "tabs",
         "children": [
           {
-            "id": "a90eabb53db1e150",
+            "id": "51d24bb0aa98690e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 04 15 (1430) demo.md",
+                "file": "Roles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,47 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026 04 15 (1430) demo"
-            }
-          },
-          {
-            "id": "ffcd096427fcfdec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/sketch-1776259829.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "sketch-1776259829"
-            }
-          },
-          {
-            "id": "4429ce4d5cbb2aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teams.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teams"
+              "title": "Roles"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,12 +217,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4429ce4d5cbb2aa4",
+  "active": "51d24bb0aa98690e",
   "lastOpenFiles": [
-    "Engineering.md",
+    "Roles.md",
     "Teams.md",
-    "Excalidraw/sketch-1776259829.md",
+    "Engineer.md",
     "2026 04 15 (1430) demo.md",
+    "Excalidraw/sketch-1776259829.md",
+    "Templates/Role Template.md",
+    "Templates/Role Template.base",
+    "Templates/Bases/Role Template.base",
+    "Templates/Bases/Roles.base",
+    "Engineering.md",
     "Templates/Team Template.md",
     "Templates/Bases/Teams.base",
     "2026 04 07 (1023) DSE.md",
@@ -281,15 +250,9 @@
     "Templates/Category Template.md",
     "Templates/Project Template.md",
     "Templates/Person Template.md",
-    "Templates/Meeting Template.md",
-    "Templates/Daily Note Template.md",
-    "Templates/Company Template.md",
     "Templates/Bases/Templates.base",
     "Templates/Bases/Projects.base",
     "Templates/Bases/People.base",
-    "Templates/Bases/Journal.base",
-    "Templates/Bases/Daily.base",
-    "Templates/Bases/Clippings.base",
-    "Templates/Bases/Companies.base"
+    "Templates/Bases/Journal.base"
   ]
 }
