@@ -1,10 +1,9 @@
 ---
 categories:
     - "[[Tools]]"
-    - "[[Equipment]]"
+    - "[[Software]]"
 tags:
-    - equipment
-model:
+    - software
 provider:
 domains: []
 workflows: []

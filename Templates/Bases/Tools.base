@@ -10,14 +10,16 @@ properties:
         displayName: tags
     note.model:
         displayName: Model
-    note.manufacturer:
-        displayName: Manufacturer
-    note.domain:
-        displayName: Domain
+    note.provider:
+        displayName: Provider
+    note.domains:
+        displayName: Domains
     note.workflows:
         displayName: Workflows
     note.owners:
         displayName: Owners
+    note.url:
+        displayName: URL
 summaries:
 views:
     - type: table
@@ -25,9 +27,9 @@ views:
       order:
         - file.name
         - tags
-        - domain
+        - domains
         - model
-        - manufacturer
+        - provider
         - workflows
         - owners
     - type: table
@@ -37,8 +39,33 @@ views:
             - note.tags.contains("equipment")
       order:
         - file.name
-        - domain
+        - domains
         - model
-        - manufacturer
+        - provider
         - workflows
-        - owners        
+        - owners       
+        - url
+    - type: table
+      name: Software
+      filters:
+        and:
+            - note.tags.contains("software")
+      order:
+        - file.name
+        - domains
+        - provider
+        - workflows
+        - owners   
+        - url
+    - type: table
+      name: Repository
+      filters:
+        and:
+            - note.tags.contains("repository")
+      order:
+        - file.name
+        - domains
+        - provider
+        - workflows
+        - owners  
+        - url                      
