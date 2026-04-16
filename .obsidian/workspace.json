@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workflows.md",
+                "file": "Genes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Workflows"
+              "title": "Genes"
+            }
+          },
+          {
+            "id": "998352b81b8d85d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transcripts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Transcripts"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -314,16 +338,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fdf67c409fe85020",
+  "active": "998352b81b8d85d7",
   "lastOpenFiles": [
+    "tx00000001.md",
+    "Transcripts.md",
+    "Genes.md",
+    "Templates/Transcript Template.md",
+    "Templates/Bases/Transcripts.base",
+    "Templates/Bases/Transcript.base",
+    "Workflows.md",
     "Tools.md",
     "Teams.md",
     "Software.md",
-    "Genes.md",
     "README.md",
     "Repository.md",
     "Roles.md",
-    "Workflows.md",
     "BRCA.md",
     "Templates/Gene Template.md",
     "Templates/Bases/Genes.base",
@@ -346,11 +375,6 @@
     "Templates/Role Template.base",
     "Templates/Bases/Role Template.base",
     "Templates/Bases/Roles.base",
-    "Engineering.md",
-    "Templates/Team Template.md",
-    "Templates/Bases/Teams.base",
-    "2026 04 07 (1023) DSE.md",
-    "Templates/Bases/Backlinks.base",
-    "Templates/Bases/Attachments.base"
+    "Templates/Bases/Teams.base"
   ]
 }

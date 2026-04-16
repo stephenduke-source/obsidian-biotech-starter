@@ -1,0 +1,6 @@
+---
+tags:
+  - transcripts
+---
+
+![[Transcripts.base]]
