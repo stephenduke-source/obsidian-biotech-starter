@@ -2,6 +2,7 @@
   "userIgnoreFilters": [
     "Templates/Bases/",
     "Daily/",
-    "Templates/"
+    "Templates/",
+    "Excalidraw/"
   ]
 }
