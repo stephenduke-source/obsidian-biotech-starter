@@ -1,0 +1,6 @@
+---
+tags:
+  - proteins
+---
+
+![[Proteins.base]]

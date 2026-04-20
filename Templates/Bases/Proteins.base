@@ -1,0 +1,41 @@
+filters:
+    and:
+        - categories.contains(link("Proteins"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Protein
+    note.uniprot_id:
+        displayName: UniProt ID
+    note.gene:
+        displayName: Gene
+    note.transcripts:
+        displayName: Transcripts
+    note.species:
+        displayName: Species
+    note.molecular_weight:
+        displayName: Molecular Weight
+    note.subcellular_location:
+        displayName: Subcellular Location
+    note.domains:
+        displayName: Domains
+    note.pathways:
+        displayName: Pathways
+    note.diseases:
+        displayName: Diseases
+    note.interactions:
+        displayName: Interactions
+summaries:
+views:
+    - type: table
+      name: Proteins
+      order:
+        - file.name
+        - uniprot_id
+        - gene
+        - transcripts
+        - species
+        - pathways
+        - diseases
+        - interactions

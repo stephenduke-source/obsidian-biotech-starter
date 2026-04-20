@@ -219,6 +219,9 @@
   },
   "active": "7d16ea2eee25b348",
   "lastOpenFiles": [
+    "Proteins.md",
+    "Templates/Bases/Proteins.base",
+    "Templates/Protein Template.md",
     "README.md",
     "2026 04 16 (1545) Getting stuck into CICD.md",
     "2026 04 16 (2311) Thinking about what the scientists want.md",
@@ -247,13 +250,10 @@
     "Templates/Workflow Template.md",
     "Templates/Bases/Workflows.base",
     "NextSeq2000.md",
-    "Equipment.md",
     "Templates/Bases/Tools.base",
-    "Templates/Equipment Template.md",
     "Templates/Bases/Tool.base",
     "Templates/Role Template.base",
     "Templates/Bases/Role Template.base",
-    "Templates/Bases/Roles.base",
-    "Templates/Bases/Teams.base"
+    "Templates/Bases/Roles.base"
   ]
 }
