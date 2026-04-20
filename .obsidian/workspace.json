@@ -219,6 +219,8 @@
   },
   "active": "7d16ea2eee25b348",
   "lastOpenFiles": [
+    "Experimental Models.md",
+    "Templates/Bases/Experimental Models.base",
     "Cell Lines.md",
     "Templates/Bases/Cell Lines.base",
     "Templates/Cell Line Template.md",
@@ -251,9 +253,7 @@
     "Workflows.md",
     "Genes.md",
     "Transcripts.md",
-    "tx00000001.md",
     "Templates/Bases/Transcripts.base",
-    "Templates/Bases/Transcript.base",
-    "Templates/Bases/Genes.base"
+    "Templates/Bases/Transcript.base"
   ]
 }

@@ -1,0 +1,50 @@
+filters:
+    or:
+        - tags.contains("cell-lines")
+        - tags.contains("model-organisms")
+formulas:
+properties:
+    file.name:
+        displayName: Name
+    note.tags:
+        displayName: Type
+    note.species:
+        displayName: Species
+    note.genes:
+        displayName: Genes
+    note.diseases:
+        displayName: Diseases
+summaries:
+views:
+    - type: table
+      name: All Experimental Models
+      order:
+        - file.name
+        - tags
+        - species
+        - genes
+        - diseases
+    - type: table
+      name: Model Organisms
+      filters:
+        and:
+            - note.tags.contains("model-organisms")
+      order:
+        - file.name
+        - taxonomy_id
+        - common_name
+        - scientific_name
+        - genes
+        - diseases
+    - type: table
+      name: Cell Lines
+      filters:
+        and:
+            - note.tags.contains("cell-lines")
+      order:
+        - file.name
+        - cellosaurus_id
+        - species
+        - tissue
+        - disease
+        - genes
