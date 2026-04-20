@@ -1,0 +1,38 @@
+filters:
+    and:
+        - categories.contains(link("Pathways"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Pathway
+    note.kegg_id:
+        displayName: KEGG ID
+    note.reactome_id:
+        displayName: Reactome ID
+    note.genes:
+        displayName: Genes
+    note.proteins:
+        displayName: Proteins
+    note.enzymes:
+        displayName: Enzymes
+    note.diseases:
+        displayName: Diseases
+    note.drugs:
+        displayName: Drugs
+    note.organism:
+        displayName: Organism
+summaries:
+views:
+    - type: table
+      name: Pathways
+      order:
+        - file.name
+        - kegg_id
+        - reactome_id
+        - genes
+        - proteins
+        - enzymes
+        - diseases
+        - drugs
+        - organism

@@ -1,0 +1,6 @@
+---
+tags:
+  - pathways
+---
+
+![[Pathways.base]]
