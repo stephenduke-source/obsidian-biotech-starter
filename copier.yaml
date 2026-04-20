@@ -1,0 +1,19 @@
+_min_copier_version: "9.0.0"
+_subdirectory: template
+
+_skip_if_exists:
+  - ".obsidian/app.json"
+  - ".obsidian/appearance.json"
+  - ".obsidian/workspace.json"
+  - ".obsidian/workspace-mobile.json"
+  - ".obsidian/plugins/**"
+  - ".obsidian/themes/**"
+
+_message_after_copy: |
+  ✅ Your Obsidian vault has been created!
+  Open this folder in Obsidian to get started.
+  See README.md inside the vault for setup instructions.
+
+_message_after_update: |
+  ✅ Your vault has been updated to the latest template version.
+  Review any conflict markers (<<<<<<) before committing.

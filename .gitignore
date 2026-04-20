@@ -1,0 +1,16 @@
+# Personal notes
+2026*
+
+# Obsidian workspace state (user-specific)
+template/.obsidian/workspace.json
+template/.obsidian/workspace-mobile.json
+
+# Excalidraw drawings (personal)
+/template/Excalidraw/*
+
+# Test vaults generated during development
+/tmp/test-vault/
+
+# macOS
+.DS_Store
+**/.DS_Store
