@@ -1,0 +1,6 @@
+---
+tags:
+  - drugs
+---
+
+![[Drugs.base]]

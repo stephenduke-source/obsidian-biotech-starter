@@ -1,0 +1,36 @@
+filters:
+    and:
+        - categories.contains(link("Drugs"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Drug
+    note.drugbank_id:
+        displayName: DrugBank ID
+    note.chembl_id:
+        displayName: ChEMBL ID
+    note.targets:
+        displayName: Targets
+    note.mechanism_of_action:
+        displayName: Mechanism of Action
+    note.indications:
+        displayName: Indications
+    note.approval_status:
+        displayName: Approval Status
+    note.pathways:
+        displayName: Pathways
+    note.clinical_trials:
+        displayName: Clinical Trials
+summaries:
+views:
+    - type: table
+      name: Drugs
+      order:
+        - file.name
+        - drugbank_id
+        - chembl_id
+        - targets
+        - indications
+        - approval_status
+        - pathways

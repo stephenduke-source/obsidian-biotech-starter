@@ -219,6 +219,9 @@
   },
   "active": "7d16ea2eee25b348",
   "lastOpenFiles": [
+    "Drugs.md",
+    "Templates/Bases/Drugs.base",
+    "Templates/Drug Template.md",
     "Enzymes.md",
     "Templates/Bases/Enzymes.base",
     "Templates/Enzyme Template.md",
@@ -248,12 +251,9 @@
     "scRNASeq.md",
     "rrx-data-workflows.md",
     "Templates/Repository Template.md",
-    "Sequera.md",
-    "Templates/Software Template.md",
     "Templates/Bases/Workflows.base",
     "Templates/Bases/Tools.base",
     "Templates/Bases/Tool.base",
-    "Templates/Role Template.base",
-    "Templates/Bases/Role Template.base"
+    "Templates/Role Template.base"
   ]
 }
