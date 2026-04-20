@@ -219,6 +219,9 @@
   },
   "active": "7d16ea2eee25b348",
   "lastOpenFiles": [
+    "Model Organisms.md",
+    "Templates/Bases/Model Organisms.base",
+    "Templates/Model Organism Template.md",
     "Pathways.md",
     "Templates/Bases/Pathways.base",
     "Templates/Pathway Template.md",
@@ -250,10 +253,7 @@
     "Templates/Bases/Transcripts.base",
     "Templates/Bases/Transcript.base",
     "Teams.md",
-    "Repository.md",
-    "BRCA.md",
     "Templates/Bases/Genes.base",
-    "Templates/Bases/Workflows.base",
-    "Templates/Bases/Tools.base"
+    "Templates/Bases/Workflows.base"
   ]
 }
