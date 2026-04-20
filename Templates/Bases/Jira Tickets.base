@@ -1,0 +1,38 @@
+filters:
+    and:
+        - categories.contains(link("Jira Tickets"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Ticket
+    note.url:
+        displayName: URL
+    note.project:
+        displayName: Project
+    note.status:
+        displayName: Status
+    note.assignee:
+        displayName: Assignee
+    note.priority:
+        displayName: Priority
+    note.sprint:
+        displayName: Sprint
+    note.related_meetings:
+        displayName: Related Meetings
+    note.related_genes:
+        displayName: Related Genes
+    note.related_proteins:
+        displayName: Related Proteins
+summaries:
+views:
+    - type: table
+      name: Jira Tickets
+      order:
+        - file.name
+        - url
+        - project
+        - status
+        - assignee
+        - priority
+        - sprint

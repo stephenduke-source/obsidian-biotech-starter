@@ -219,6 +219,9 @@
   },
   "active": "7d16ea2eee25b348",
   "lastOpenFiles": [
+    "Jira Tickets.md",
+    "Templates/Bases/Jira Tickets.base",
+    "Templates/Jira Ticket Template.md",
     "Experimental Models.md",
     "Templates/Bases/Experimental Models.base",
     "Cell Lines.md",
@@ -251,9 +254,6 @@
     "Tools.md",
     "Software.md",
     "Workflows.md",
-    "Genes.md",
-    "Transcripts.md",
-    "Templates/Bases/Transcripts.base",
-    "Templates/Bases/Transcript.base"
+    "Templates/Bases/Transcripts.base"
   ]
 }
