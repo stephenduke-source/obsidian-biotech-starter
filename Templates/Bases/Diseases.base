@@ -1,0 +1,41 @@
+filters:
+    and:
+        - categories.contains(link("Diseases"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Disease
+    note.omim_id:
+        displayName: OMIM ID
+    note.icd_code:
+        displayName: ICD Code
+    note.genes:
+        displayName: Genes
+    note.proteins:
+        displayName: Proteins
+    note.pathways:
+        displayName: Pathways
+    note.drugs:
+        displayName: Drugs
+    note.model_organisms:
+        displayName: Model Organisms
+    note.cell_lines:
+        displayName: Cell Lines
+    note.symptoms:
+        displayName: Symptoms
+    note.prevalence:
+        displayName: Prevalence
+summaries:
+views:
+    - type: table
+      name: Diseases
+      order:
+        - file.name
+        - omim_id
+        - icd_code
+        - genes
+        - proteins
+        - pathways
+        - drugs
+        - symptoms

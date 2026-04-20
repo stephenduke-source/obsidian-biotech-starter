@@ -219,6 +219,9 @@
   },
   "active": "7d16ea2eee25b348",
   "lastOpenFiles": [
+    "Diseases.md",
+    "Templates/Bases/Diseases.base",
+    "Templates/Disease Template.md",
     "Drugs.md",
     "Templates/Bases/Drugs.base",
     "Templates/Drug Template.md",
@@ -249,11 +252,8 @@
     "Templates/Gene Template.md",
     "Templates/Bases/Genes.base",
     "scRNASeq.md",
-    "rrx-data-workflows.md",
-    "Templates/Repository Template.md",
     "Templates/Bases/Workflows.base",
     "Templates/Bases/Tools.base",
-    "Templates/Bases/Tool.base",
-    "Templates/Role Template.base"
+    "Templates/Bases/Tool.base"
   ]
 }
