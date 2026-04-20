@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Organisms.md",
+                "file": "Experimental Models.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Model Organisms"
+              "title": "Experimental Models"
             }
           }
         ],
@@ -244,8 +244,10 @@
   },
   "active": "82b65963db31775d",
   "lastOpenFiles": [
-    "Mouse.md",
+    "Cell Lines.md",
+    "Experimental Models.md",
     "Model Organisms.md",
+    "Mouse.md",
     "Chat with Amaia.md",
     "Meetings.md",
     "etb-3421.md",
@@ -260,9 +262,7 @@
     "2026 04 16 (2311) Thinking about what the scientists want.md",
     "Templates/Bases/Jira Tickets.base",
     "Templates/Jira Ticket Template.md",
-    "Experimental Models.md",
     "Templates/Bases/Experimental Models.base",
-    "Cell Lines.md",
     "Templates/Bases/Cell Lines.base",
     "Templates/Cell Line Template.md",
     "Templates/Bases/Model Organisms.base",

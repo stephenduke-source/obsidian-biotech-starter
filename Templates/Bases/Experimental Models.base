@@ -1,7 +1,7 @@
 filters:
-    or:
-        - tags.contains("cell-lines")
-        - tags.contains("model-organisms")
+    and:
+        - tags.contains("experimental-models")
+        - file.folder != "Templates"
 formulas:
 properties:
     file.name:
@@ -42,11 +42,16 @@ views:
         - species
         - genes
         - diseases
+      filters:
+        and:
+            - note.tags.contains("experimental-models")
+            - file.name != "Experimental Models"
     - type: table
       name: Model Organisms
       filters:
         and:
             - note.tags.contains("model-organisms")
+            - note.tags.contains("experimental-models") == false
       order:
         - file.name
         - taxonomy_id
@@ -60,6 +65,7 @@ views:
       filters:
         and:
             - note.tags.contains("cell-lines")
+            - note.tags.contains("experimental-models") == false
       order:
         - file.name
         - cellosaurus_id
