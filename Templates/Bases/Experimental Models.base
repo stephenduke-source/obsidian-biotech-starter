@@ -8,12 +8,30 @@ properties:
         displayName: Name
     note.tags:
         displayName: Type
+    note.taxonomy_id:
+        displayName: Taxonomy ID
+    note.common_name:
+        displayName: Common Name
+    note.scientific_name:
+        displayName: Scientific Name
+    note.cellosaurus_id:
+        displayName: Cellosaurus ID
     note.species:
         displayName: Species
+    note.tissue:
+        displayName: Tissue
+    note.disease:
+        displayName: Disease
     note.genes:
         displayName: Genes
-    note.diseases:
-        displayName: Diseases
+    note.proteins:
+        displayName: Proteins
+    note.model_organism:
+        displayName: Model Organism
+    note.cell_lines:
+        displayName: Cell Lines
+    note.culture_type:
+        displayName: Culture Type
 summaries:
 views:
     - type: table
@@ -36,6 +54,7 @@ views:
         - scientific_name
         - genes
         - diseases
+        - cell_lines
     - type: table
       name: Cell Lines
       filters:
@@ -48,3 +67,6 @@ views:
         - tissue
         - disease
         - genes
+        - proteins
+        - model_organism
+        - culture_type

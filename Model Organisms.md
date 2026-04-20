@@ -3,4 +3,4 @@ tags:
   - model-organisms
 ---
 
-![[Model Organisms.base]]
+![[Experimental Models.base#Model Organisms]]

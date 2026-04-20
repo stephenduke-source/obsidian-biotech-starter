@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 04 16 (2311) Thinking about what the scientists want.md",
+                "file": "Model Organisms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026 04 16 (2311) Thinking about what the scientists want"
+              "title": "Model Organisms"
+            }
+          },
+          {
+            "id": "82b65963db31775d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model Organisms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Model Organisms"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,10 +242,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7d16ea2eee25b348",
+  "active": "82b65963db31775d",
   "lastOpenFiles": [
+    "Mouse.md",
+    "Model Organisms.md",
+    "Chat with Amaia.md",
     "Meetings.md",
+    "etb-3421.md",
     "Jira Tickets.md",
+    "Parkinsons.md",
+    "Diseases.md",
+    "Propanalol.md",
+    "Drugs.md",
+    "Haemoglobin.md",
+    "Enzymes.md",
+    "Proteins.md",
+    "2026 04 16 (2311) Thinking about what the scientists want.md",
     "Templates/Bases/Jira Tickets.base",
     "Templates/Jira Ticket Template.md",
     "Experimental Models.md",
@@ -228,32 +265,20 @@
     "Cell Lines.md",
     "Templates/Bases/Cell Lines.base",
     "Templates/Cell Line Template.md",
-    "Model Organisms.md",
     "Templates/Bases/Model Organisms.base",
     "Templates/Model Organism Template.md",
     "Pathways.md",
     "Templates/Bases/Pathways.base",
     "Templates/Pathway Template.md",
-    "Diseases.md",
     "Templates/Bases/Diseases.base",
     "Templates/Disease Template.md",
-    "Drugs.md",
     "Templates/Bases/Drugs.base",
     "Templates/Drug Template.md",
-    "Enzymes.md",
     "Templates/Bases/Enzymes.base",
     "Templates/Enzyme Template.md",
-    "Proteins.md",
     "Templates/Bases/Proteins.base",
     "Templates/Protein Template.md",
     "README.md",
-    "2026 04 16 (1545) Getting stuck into CICD.md",
-    "2026 04 16 (2311) Thinking about what the scientists want.md",
-    "Excalidraw/sketch-1776377632.md",
-    "ETB-3421.md",
-    "Roles.md",
-    "Tools.md",
-    "Software.md",
     "Templates/Bases/Transcripts.base"
   ]
 }

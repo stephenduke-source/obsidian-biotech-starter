@@ -3,4 +3,4 @@ tags:
   - cell-lines
 ---
 
-![[Cell Lines.base]]
+![[Experimental Models.base#Cell Lines]]
