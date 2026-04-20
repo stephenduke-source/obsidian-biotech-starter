@@ -219,6 +219,9 @@
   },
   "active": "7d16ea2eee25b348",
   "lastOpenFiles": [
+    "Enzymes.md",
+    "Templates/Bases/Enzymes.base",
+    "Templates/Enzyme Template.md",
     "Proteins.md",
     "Templates/Bases/Proteins.base",
     "Templates/Protein Template.md",
@@ -247,13 +250,10 @@
     "Templates/Repository Template.md",
     "Sequera.md",
     "Templates/Software Template.md",
-    "Templates/Workflow Template.md",
     "Templates/Bases/Workflows.base",
-    "NextSeq2000.md",
     "Templates/Bases/Tools.base",
     "Templates/Bases/Tool.base",
     "Templates/Role Template.base",
-    "Templates/Bases/Role Template.base",
-    "Templates/Bases/Roles.base"
+    "Templates/Bases/Role Template.base"
   ]
 }

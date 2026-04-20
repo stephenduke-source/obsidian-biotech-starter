@@ -1,0 +1,41 @@
+filters:
+    and:
+        - categories.contains(link("Enzymes"))
+        - file.folder != "Templates"
+formulas:
+properties:
+    file.name:
+        displayName: Enzyme
+    note.ec_number:
+        displayName: EC Number
+    note.gene:
+        displayName: Gene
+    note.transcripts:
+        displayName: Transcripts
+    note.species:
+        displayName: Species
+    note.substrates:
+        displayName: Substrates
+    note.products:
+        displayName: Products
+    note.cofactors:
+        displayName: Cofactors
+    note.inhibitors:
+        displayName: Inhibitors
+    note.pathways:
+        displayName: Pathways
+    note.diseases:
+        displayName: Diseases
+summaries:
+views:
+    - type: table
+      name: Enzymes
+      order:
+        - file.name
+        - ec_number
+        - gene
+        - transcripts
+        - species
+        - substrates
+        - pathways
+        - diseases
